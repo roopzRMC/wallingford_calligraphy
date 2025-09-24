@@ -2,9 +2,8 @@
 date = '2025-09-24T14:54:26+01:00'
 draft = false
 title = 'Welcome to Wallingford Calligraphy'
+featured_image = '/images/board.png'
 +++
-
-# Welcome to Wallingford Calligraphy
 
 ## Beautiful Handwritten Art for Every Occasion
 
@@ -29,8 +28,11 @@ Transform your business with custom hand-lettered signage that stands out from t
 ### Why Choose Wallingford Calligraphy?
 
 ✨ **Local Expertise** - Proudly serving Wallingford and surrounding Oxfordshire areas
+
 ✨ **Personal Touch** - Every piece is individually crafted with attention to detail
+
 ✨ **Versatile Styles** - From traditional scripts to modern lettering
+
 ✨ **Professional Service** - Reliable, friendly, and committed to excellence
 
 ---
